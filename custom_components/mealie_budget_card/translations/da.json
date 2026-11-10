@@ -1,0 +1,20 @@
+{
+  "title": "Mealie Budget Card",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Opsæt Mealie Budget Card",
+        "description": "Salling-nøglen gemmes lokalt i Home Assistants config entry.",
+        "data": {
+          "name": "Navn",
+          "mealie_config_entry_id": "Mealie-integration",
+          "mealie_url": "Mealie-adresse",
+          "salling_token": "Salling Group API-nøgle",
+          "category": "Mealie-kategori",
+          "servings": "Personer",
+          "max_recipes": "Opskrifter i første analyse"
+        }
+      }
+    }
+  }
+}

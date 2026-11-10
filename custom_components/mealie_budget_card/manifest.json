@@ -1,0 +1,15 @@
+{
+  "domain": "mealie_budget_card",
+  "name": "Mealie Budget Card",
+  "version": "0.4.0-alpha.3.1",
+  "config_flow": true,
+  "documentation": "https://github.com/joachim-mortensen/mealie-budget-card",
+  "issue_tracker": "https://github.com/joachim-mortensen/mealie-budget-card/issues",
+  "dependencies": [
+    "mealie",
+    "websocket_api"
+  ],
+  "requirements": [],
+  "codeowners": [],
+  "iot_class": "cloud_polling"
+}

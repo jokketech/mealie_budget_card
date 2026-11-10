@@ -1,0 +1,19 @@
+{
+  "title": "Mealie Budget Card",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Mealie Budget Card",
+        "data": {
+          "name": "Name",
+          "mealie_config_entry_id": "Mealie integration",
+          "mealie_url": "Mealie URL",
+          "salling_token": "Salling Group API key",
+          "category": "Mealie category",
+          "servings": "Servings",
+          "max_recipes": "Recipes per analysis"
+        }
+      }
+    }
+  }
+}
